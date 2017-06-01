@@ -1,19 +1,135 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
-[Oo]bj/ # FlashDevelop obj
-[Bb]in/ # FlashDevelop bin
+	
+		<div id="hd">
+			<div class="yui-gc">
+				<div class="yui-u first">
+					<h1>Iorran Dias</h1>
+					<h2>Estudante de TI</h2>
+				</div>
 
-# Other files and folders
-.settings/
+				<div class="yui-u">
+					<div class="contact-info">
+						
+						<h3><a href="">iorran.dias@hotmail.com</a></h3>
+						<h3>(21) - 7777-7070</h3>
+					</div><!--// .contact-info -->
+				</div>
+			</div><!--// .yui-gc -->
+		</div><!--// hd -->
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+		<div id="bd">
+			<div id="yui-main">
+				<div class="yui-b">
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Perfil</h2>
+						</div>
+						<div class="yui-u">
+							<p class="enlarge">
+								Sempre preparado para novos desafios, tenho facilidade em trabalhar em equipe .Minhas expectativa e formar em TI e sem bem sucedido financeiramente e profissionalmente .
+aberto para novos aprendizados. 
+							</p>
+						</div>
+					</div><!--// .yui-gf -->
+
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Cursos</h2>
+						</div>
+						<div class="yui-u">
+
+								<div class="yui-gf">
+									<h2>Auto Cad</h2>
+									<p>Tenho uma experienca em projeto com o autocad	</p>
+								</div>
+
+								<div class="talent">
+									<h2>Ingles Intemediario</h2>
+									<p>Experiencia em traducao e um pouco de dialogo	 </p>
+								</div>
+
+								<div class="talent">
+									<h2>Tecnico em TI</h2>
+									<p>Experiencia em Manutencao de computadores e redes.</p>
+								</div>
+						</div>
+					</div><!--// .yui-gf -->
+
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Cursando</h2>
+						</div>
+						<div class="yui-u">
+							<ul class="talent">
+								<li>Ingles Avancado</li>
+								<li>Sistema de Informacao</li>
+								<li class="last">Programcao</li>
+							</ul>
+
+							<ul class="talent">
+								<li>Puc-Rio</li>
+								<li>UVA</li>
+								<li class="last">Alura-online</li>
+							</ul>
+
+							<ul class="talent">
+								<li>2017</li>
+								<li>2017</li>
+								<li class="last">2017</li>
+							</ul>
+						</div>
+					</div><!--// .yui-gf-->
+
+					<div class="yui-gf">
+	
+						<div class="yui-u first">
+							<h2>Experiencia</h2>
+						</div><!--// .yui-u -->
+
+						<div class="yui-u">
+
+							<div class="job">
+								<h2>Volkswagem</h2>
+								<h3>Jovem Aprendiz</h3>
+								<h4>2010-2012</h4>
+								<p> </p>
+							</div>
+
+							<div class="job">
+								<h2>Peugeot Citroen</h2>
+								<h3>Operador de logistica</h3>
+								<h4>2013-2014</h4>
+								<p> </p>
+							</div>
+
+							<div class="job">
+								<h2>PUC-RIO</h2>
+								<h3>Auxiliar Tecnico</h3>
+								<h4>2015-2017</h4>
+								<p> </p>
+												
+
+						</div><!--// .yui-u -->
+					</div><!--// .yui-gf -->
+
+
+					
+					</div><!--// .yui-gf -->
+
+
+				</div><!--// .yui-b -->
+			</div><!--// yui-main -->
+		</div><!--// bd -->
+
+		<div id="ft">
+			<p>Iorran Dias &mdash; <a href="mailto:Iorran.dias@hotmail.com">https://github.com/IorranDias/Aula8</a> &mdash; (21) - 7777-7070</p>
+		</div><!--// footer -->
+
+	</div><!-- // inner -->
+
+
+</div><!--// doc -->
+
+
+</body>
+</html>
